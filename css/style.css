@@ -1,0 +1,17 @@
+.container {
+    max-width: 1250px;
+    display: flex;
+    margin: 0 auto;
+}
+.alboms-list {
+    width: 50%;
+}
+.photos-list {
+    width: 50%;
+}
+.albom-titles {
+    cursor: pointer;
+}
+.photos {
+    padding: 10px;
+}
